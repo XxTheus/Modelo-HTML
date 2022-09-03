@@ -1,5 +1,5 @@
 body{
-    background-color: dodgerblue;
+    background-color: rgb(56, 56, 56);
     font: normal 15pt Arial;
     
 }
@@ -20,6 +20,7 @@ section{
 }
 
 footer{
+    color: aliceblue;
     text-align: center;
     font-style: italic;
     top: 50%;
