@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(56, 56, 56);
+    background-color: rgb(56, 56, 56); /* Setando uma cor sólida de fundo */
     font: normal 15pt Arial;
     
 }
@@ -26,7 +26,7 @@ footer{
     top: 50%;
 }
 
-#txt{
+#txt{ /* #<tag_name> === id | .<element_name> === class */
     text-align: center;
     font-family: 'Dancing Script', cursive;
     font-size: 40px;
