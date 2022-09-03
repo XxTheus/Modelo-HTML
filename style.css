@@ -1,10 +1,13 @@
 body{
     background-color: dodgerblue;
     font: normal 15pt Arial;
+    
 }
 
 header{
+    font-family: 'Prompt', cursive;
     text-align: center;
+    color: aliceblue;
 }
 
 section{
@@ -19,4 +22,21 @@ section{
 footer{
     text-align: center;
     font-style: italic;
+    top: 50%;
+}
+
+#txt{
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+    color: black;
+    text-shadow: 2px 2px 8px white;
+}
+
+#img1{
+    position: absolute;
+    bottom: 200px;
+    padding: 10px;
+    width: 500px;
+    margin: auto;
 }
